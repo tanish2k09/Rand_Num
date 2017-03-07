@@ -1,5 +1,10 @@
 # Rand_Num
 
+------
+App :
+------
+The latest build of the app can be found inside the bin folder.
+
 ----------
 Intro :
 ----------
